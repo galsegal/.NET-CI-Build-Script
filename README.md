@@ -1,5 +1,5 @@
 #.Net Build Script For Continuous Integration 
-Going forward to CD is a blessed improvement in a developer's life. The first step in this process is a the ability to build, test, package the code and send it to the CI orchestration tool (Jenkins, TeamCity etc.). This small repo aims to help in this step.
+Going forward to CI is a blessed improvement in a developer's life. The first step in this process is a the ability to build, test, package the code and send it to the CI orchestration tool (Jenkins, TeamCity etc.). This small repo aims to help in this step.
 
 I have used [MsBuildTasks], an open source community effort to extend MsBuild capabilities.
 
