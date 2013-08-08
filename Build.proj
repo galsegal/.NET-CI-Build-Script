@@ -69,7 +69,6 @@
   </Target>
 
   <Target Name="RunUnitTests" Condition=" '@(TestAssemblies)' != '' ">
-    <Message Text="-------------------------------------------"/>
     <NUnit ToolPath="@(NUnitConsole)"
            DisableShadowCopy="true"
            ContinueOnError="false"
